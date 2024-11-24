@@ -16,3 +16,5 @@ Aplikasi sederhana untuk mengelola daftar belanja, dilengkapi dengan fitur CRUD 
 - **RecyclerView**: Untuk menampilkan daftar belanja.
 - **AlertDialog**: Untuk mengedit item.
 - **Android Studio**: Lingkungan pengembangan.
+
+![Movie App Screenshot](./app/images/screenshoot.png)
